@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleAnimView">
+        <attr name="circleCenterPointX" format="float" />
+        <attr name="circleCenterPointY" format="float" />
+
+        <attr name="circleStrokeWidth" format="float" />
+        <attr name="circleRadius" format="float" />
+        <attr name="rating" format="integer"/>
+    </declare-styleable>
+</resources>
